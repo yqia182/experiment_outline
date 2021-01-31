@@ -1,6 +1,5 @@
-# experiment_outline
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+# Overview
+## Trial 1
+![](https://github.com/yqia182/experiment_outline/blob/main/trial1/Untitled.jpg?raw=true)
+## Trial 2
+![](https://github.com/yqia182/experiment_outline/blob/main/trial2/fermentation_plan_Jan13%20(1).png?raw=true)
